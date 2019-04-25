@@ -7,7 +7,7 @@ OWT视频分析架构
 ===============
 
 OWT 视频分析的系统架构如下：
-
+![Analytics Arch](https://github.com/taste1981/owt-server/blob/master/doc/servermd/analytics_diagram.jpg)
 OWT Server中允许用户通过Analytics REST
 API对某个Room中的任意一个流进行视频分析，包括从WebRTC以及SIP节点导入的流，以及从混流节点等其它节点导入的流。一个成功的视频分析请求将在同一个Room内生成一个新的流。
 
