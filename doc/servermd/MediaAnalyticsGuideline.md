@@ -1,4 +1,4 @@
-                                       Open WebRTC Toolkit 之视频分析简介
+Open WebRTC Toolkit 之视频分析简介
 
 本文介绍Open WebRTC Toolkit中的视频分析功能的使用，以及如何使用Intel
 Distribution of OpenVINO实现自定义的视频分析。
