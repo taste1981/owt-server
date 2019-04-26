@@ -72,7 +72,7 @@ Javascript SDK, pleae refer to <https://github.com/open-webrtc-toolkit/owt-clien
 
 Besides, MCU dependes on Node.js version 8. For installation of Node.js, refer to <https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/>.
 
-### Build and Deploy Aanalytics Plugins Shipped with Open WebRTC Toolkit
+### Build and Deploy Analytics Plugins Shipped with Open WebRTC Toolkit
 
 
 After building and packing MCU, the analytics plugins shipped with MCU are in ````dist/analytics_agent/plugins/samples/```` directory as source code. 
